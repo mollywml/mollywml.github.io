@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Molly Blog
+SEOTitle: 孟丽的博客 | Molly Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: mollywml@qq.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://mollywml.me"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     大丽在路上
+zhihu_username:     大丽在路上
+github_username:    mollywml
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
